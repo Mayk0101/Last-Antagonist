@@ -34,15 +34,6 @@ Resista até a onda final para provar que você é o Last Antagonist.
 
 ---
 
-## 🎬 Gameplay
-
-<video width="100%" controls>
-  <source src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3946060/extras/76c326daab7eaf476d33209fc31425c2.webm?t=1757334314" type="video/webm">
-  Seu navegador não suporta vídeos.
-</video>
-
----
-
 ## 📹 Trailer Completo
 
 Assista ao trailer do jogo:
