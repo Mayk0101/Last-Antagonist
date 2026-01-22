@@ -57,6 +57,8 @@ Assista ao trailer do jogo:
 
 **Steam:** [store.steampowered.com/app/3946060](https://store.steampowered.com/app/3946060/Last_Antagonist/)
 
+**Site Oficial:** [lastantagonist.site](https://lastantagonist.site/)
+
 ---
 
 ## 💻 Requisitos do Sistema
